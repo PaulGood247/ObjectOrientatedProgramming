@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=yearIn
+comment0.target=void\ setYear(int)
+comment1.params=makeIn
+comment1.target=void\ setMake(java.lang.String)
+comment2.params=speedIn
+comment2.target=void\ setSpeed(int)
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=
+comment4.target=java.lang.String\ getMake()
+comment5.params=
+comment5.target=int\ getSpeed()
+comment6.params=
+comment6.target=void\ accelerate()
+comment7.params=
+comment7.target=void\ brake()
+numComments=8

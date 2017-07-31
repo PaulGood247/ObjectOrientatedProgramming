@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=widthIn
+comment0.target=void\ setWidth(int)
+comment1.params=lengthIn
+comment1.target=void\ setLength(int)
+comment2.params=
+comment2.target=int\ getWidth()
+comment3.params=
+comment3.target=int\ getLength()
+comment4.params=
+comment4.target=double\ area()
+numComments=5
